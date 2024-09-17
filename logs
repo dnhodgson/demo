@@ -1,0 +1,268 @@
+<46>Nov 11 08:03:17 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="72.0.64.112" user="bobjo" 
+<46>Nov 11 08:03:30 worker1 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 50899 ssh2: RSA SHA256
+<46>Nov 11 08:06:10 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="142.20.0.3" user="maryh" 
+<46>Nov 11 08:12:49 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="rsamson2" 
+<46>Nov 11 08:13:09 dev2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50503 ssh2: RSA SHA256
+<46>Nov 11 08:14:41 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="jgoodall" 
+<46>Nov 11 08:22:22 worker2 sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 51919 ssh2: RSA SHA256
+<46>Nov 11 08:25:17 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="24.72.128.32" user="joehanson" 
+<46>Nov 11 08:28:45 prod-www sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 51573 ssh2
+<46>Nov 11 08:42:39 prod-www sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50302 ssh2
+<46>Nov 11 08:45:11 prod-www sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 50840 ssh2: RSA SHA256
+<46>Nov 11 08:45:57 home sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50989 ssh2: RSA SHA256
+<46>Nov 11 08:50:22 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="slivingston" 
+<46>Nov 11 08:53:29 git sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51604 ssh2: RSA SHA256
+<46>Nov 11 09:13:16 worker1 sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50070 ssh2: RSA SHA256
+<46>Nov 11 09:29:25 worker2 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 51849 ssh2
+<46>Nov 11 09:32:59 prod-www sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51574 ssh2: RSA SHA256
+<46>Nov 11 09:49:16 worker2 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 51071 ssh2
+<46>Nov 11 10:23:36 worker2 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 51117 ssh2
+<46>Nov 11 10:31:00 git sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50752 ssh2
+<46>Nov 11 10:31:06 home sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 50062 ssh2: RSA SHA256
+<46>Nov 11 10:54:47 prod-www sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50459 ssh2: RSA SHA256
+<46>Nov 11 10:57:54 home sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51508 ssh2
+<46>Nov 11 11:43:37 home sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 50763 ssh2
+<46>Nov 11 11:51:34 prod-www sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 50727 ssh2: RSA SHA256
+<46>Nov 11 12:05:04 worker2 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51020 ssh2
+<46>Nov 11 12:13:45 worker1 sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51965 ssh2
+<46>Nov 11 12:16:23 dev2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 51937 ssh2
+<46>Nov 11 12:20:40 dev2 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51895 ssh2
+<46>Nov 11 12:40:06 worker2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 51619 ssh2: RSA SHA256
+<46>Nov 11 12:51:12 home sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 51709 ssh2: RSA SHA256
+<46>Nov 11 13:03:50 prod-www sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50271 ssh2: RSA SHA256
+<46>Nov 11 13:11:16 dev2 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 50944 ssh2: RSA SHA256
+<46>Nov 11 13:19:52 prod-www sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50779 ssh2: RSA SHA256
+<46>Nov 11 13:21:44 prod-www sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 51648 ssh2: RSA SHA256
+<46>Nov 11 13:34:08 worker1 sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50540 ssh2: RSA SHA256
+<46>Nov 11 13:50:56 worker1 sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50951 ssh2: RSA SHA256
+<46>Nov 11 14:05:18 worker2 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 51638 ssh2
+<46>Nov 11 14:16:24 worker1 sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51330 ssh2
+<46>Nov 11 15:02:02 worker1 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 50038 ssh2: RSA SHA256
+<46>Nov 11 15:11:49 worker2 sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 51842 ssh2: RSA SHA256
+<46>Nov 11 15:22:42 worker2 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 50176 ssh2
+<46>Nov 11 15:33:43 dev2 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51957 ssh2: RSA SHA256
+<46>Nov 11 15:39:30 home sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51261 ssh2: RSA SHA256
+<46>Nov 11 15:45:23 prod-www sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51131 ssh2: RSA SHA256
+<46>Nov 11 15:49:55 git sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 50203 ssh2: RSA SHA256
+<46>Nov 11 16:24:48 git sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50443 ssh2
+<46>Nov 11 16:30:06 worker2 sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51286 ssh2: RSA SHA256
+<46>Nov 11 16:36:41 prod-www sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51703 ssh2: RSA SHA256
+<46>Nov 11 16:43:26 prod-www sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 50734 ssh2
+<46>Nov 11 16:50:30 worker2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 50184 ssh2
+<46>Nov 11 16:59:52 dev2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50585 ssh2: RSA SHA256
+<46>Nov 11 17:23:03 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="142.20.0.3" user="maryh" 
+<46>Nov 11 17:24:39 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="rsamson2" 
+<46>Nov 11 17:36:10 worker1 sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51525 ssh2
+<46>Nov 11 17:38:21 dev2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50326 ssh2: RSA SHA256
+<46>Nov 11 17:41:22 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="jgoodall" 
+<46>Nov 11 17:45:19 home sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50156 ssh2: RSA SHA256
+<46>Nov 11 17:51:27 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="slivingston" 
+<46>Nov 11 17:51:37 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="72.0.64.112" user="bobjo" 
+<46>Nov 11 17:58:40 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="24.72.128.32" user="joehanson" 
+<46>Nov 11 17:58:57 prod-www sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51962 ssh2: RSA SHA256
+<46>Nov 12 08:06:26 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="rsamson2" 
+<46>Nov 12 08:19:40 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="slivingston" 
+<46>Nov 12 08:23:57 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="72.0.64.112" user="bobjo" 
+<46>Nov 12 08:32:16 dev2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 5.53.32.0 port 45373 ssh2
+<46>Nov 12 08:32:32 dev2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 23.83.208.2 port 45715 ssh2
+<46>Nov 12 08:32:40 dev2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 23.83.208.44 port 41427 ssh2
+<46>Nov 12 08:33:03 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="142.20.0.3" user="maryh" 
+<46>Nov 12 08:39:15 dev2 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51145 ssh2: RSA SHA256
+<46>Nov 12 08:54:05 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="jgoodall" 
+<46>Nov 12 08:55:01 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="24.72.128.32" user="joehanson" 
+<46>Nov 12 09:06:22 dev2 sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50587 ssh2: RSA SHA256
+<46>Nov 12 09:09:43 prod-www sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50508 ssh2: RSA SHA256
+<46>Nov 12 09:14:51 dev2 sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 51926 ssh2: RSA SHA256
+<46>Nov 12 09:24:47 home sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51397 ssh2
+<46>Nov 12 09:26:55 worker2 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 50492 ssh2: RSA SHA256
+<46>Nov 12 09:28:25 home sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51497 ssh2: RSA SHA256
+<46>Nov 12 09:29:03 worker1 sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 50049 ssh2
+<46>Nov 12 09:31:25 worker1 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50389 ssh2: RSA SHA256
+<46>Nov 12 10:15:24 git sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 50175 ssh2: RSA SHA256
+<46>Nov 12 10:18:47 dev2 sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 51101 ssh2
+<46>Nov 12 10:25:36 prod-www sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50856 ssh2: RSA SHA256
+<46>Nov 12 10:26:50 prod-www sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51672 ssh2: RSA SHA256
+<46>Nov 12 10:51:04 worker1 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 51379 ssh2
+<46>Nov 12 11:05:40 home sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51005 ssh2: RSA SHA256
+<46>Nov 12 11:31:36 worker2 sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 51087 ssh2: RSA SHA256
+<46>Nov 12 11:33:43 worker2 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50815 ssh2
+<46>Nov 12 12:08:13 dev2 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 51359 ssh2
+<46>Nov 12 12:12:48 git sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51150 ssh2: RSA SHA256
+<46>Nov 12 12:13:48 dev2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 51465 ssh2: RSA SHA256
+<46>Nov 12 12:21:37 worker2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 50790 ssh2
+<46>Nov 12 12:38:16 dev2 sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 50121 ssh2
+<46>Nov 12 13:04:53 worker1 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 51371 ssh2: RSA SHA256
+<46>Nov 12 13:35:11 git sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 51850 ssh2: RSA SHA256
+<46>Nov 12 13:38:07 worker1 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51597 ssh2
+<46>Nov 12 13:40:39 dev2 sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51184 ssh2
+<46>Nov 12 13:55:21 prod-www sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 50237 ssh2
+<46>Nov 12 14:39:11 home sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50614 ssh2
+<46>Nov 12 14:44:35 git sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 51096 ssh2
+<46>Nov 12 15:13:37 worker1 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51493 ssh2
+<46>Nov 12 15:21:26 home sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50970 ssh2: RSA SHA256
+<46>Nov 12 15:56:19 worker1 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 51311 ssh2
+<46>Nov 12 16:00:22 git sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51241 ssh2: RSA SHA256
+<46>Nov 12 16:01:24 home sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50086 ssh2: RSA SHA256
+<46>Nov 12 16:02:01 git sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50735 ssh2: RSA SHA256
+<46>Nov 12 16:10:41 prod-www sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 51979 ssh2
+<46>Nov 12 16:13:09 home sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51925 ssh2
+<46>Nov 12 16:18:23 git sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 51480 ssh2: RSA SHA256
+<46>Nov 12 16:20:06 dev2 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51442 ssh2: RSA SHA256
+<46>Nov 12 16:27:32 prod-www sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 50460 ssh2
+<46>Nov 12 16:52:37 worker1 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 50345 ssh2
+<46>Nov 12 16:56:33 dev2 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51752 ssh2
+<46>Nov 12 16:57:06 dev2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50853 ssh2: RSA SHA256
+<46>Nov 12 17:02:04 worker2 sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51695 ssh2
+<46>Nov 12 17:02:23 worker1 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51316 ssh2: RSA SHA256
+<46>Nov 12 17:03:05 worker1 sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 51809 ssh2: RSA SHA256
+<46>Nov 12 17:11:10 worker2 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51883 ssh2: RSA SHA256
+<46>Nov 12 17:12:06 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="24.72.128.32" user="joehanson" 
+<46>Nov 12 17:25:30 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="slivingston" 
+<46>Nov 12 17:32:42 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="142.20.0.3" user="maryh" 
+<46>Nov 12 17:35:15 prod-www sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51988 ssh2
+<46>Nov 12 17:44:07 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="72.0.64.112" user="bobjo" 
+<46>Nov 12 17:45:23 prod-www sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 51436 ssh2
+<46>Nov 12 17:46:14 git sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 51533 ssh2: RSA SHA256
+<46>Nov 12 17:53:24 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="jgoodall" 
+<46>Nov 12 17:54:25 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="rsamson2" 
+<46>Nov 13 08:06:47 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="24.72.128.32" user="joehanson" 
+<46>Nov 13 08:17:12 worker1 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51282 ssh2: RSA SHA256
+<46>Nov 13 08:22:06 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="72.0.64.112" user="bobjo" 
+<46>Nov 13 08:22:51 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="142.20.0.3" user="maryh" 
+<46>Nov 13 08:26:36 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="jgoodall" 
+<46>Nov 13 08:27:47 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="slivingston" 
+<46>Nov 13 08:32:22 dev2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 50352 ssh2
+<46>Nov 13 08:32:43 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="rsamson2" 
+<46>Nov 13 09:33:37 worker2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 50824 ssh2
+<46>Nov 13 09:34:07 prod-www sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50763 ssh2: RSA SHA256
+<46>Nov 13 09:55:26 prod-www sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51606 ssh2
+<46>Nov 13 09:58:21 worker1 sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50448 ssh2: RSA SHA256
+<46>Nov 13 10:03:06 prod-www sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 50102 ssh2
+<46>Nov 13 10:03:25 worker1 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50004 ssh2
+<46>Nov 13 10:10:19 dev2 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50692 ssh2
+<46>Nov 13 10:13:25 dev2 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 50058 ssh2: RSA SHA256
+<46>Nov 13 10:14:38 home sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50222 ssh2
+<46>Nov 13 10:50:42 prod-www sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50680 ssh2: RSA SHA256
+<46>Nov 13 11:08:49 git sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50216 ssh2: RSA SHA256
+<46>Nov 13 11:27:47 git sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 51770 ssh2
+<46>Nov 13 11:29:50 worker2 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 51311 ssh2
+<46>Nov 13 11:33:44 worker1 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 51279 ssh2
+<46>Nov 13 11:41:58 dev2 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51000 ssh2
+<46>Nov 13 12:11:39 git sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50315 ssh2: RSA SHA256
+<46>Nov 13 12:16:01 home sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50320 ssh2
+<46>Nov 13 12:33:15 prod-www sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51125 ssh2: RSA SHA256
+<46>Nov 13 12:54:56 worker2 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 51045 ssh2
+<46>Nov 13 13:22:24 home sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50771 ssh2: RSA SHA256
+<46>Nov 13 13:24:58 home sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 50968 ssh2
+<46>Nov 13 13:26:26 prod-www sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 50996 ssh2
+<46>Nov 13 14:01:35 worker2 sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51844 ssh2
+<46>Nov 13 14:08:01 git sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 50568 ssh2
+<46>Nov 13 14:13:44 prod-www sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 51419 ssh2: RSA SHA256
+<46>Nov 13 14:20:15 dev2 sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50174 ssh2: RSA SHA256
+<46>Nov 13 14:21:42 prod-www sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50280 ssh2: RSA SHA256
+<46>Nov 13 14:42:19 worker1 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50382 ssh2: RSA SHA256
+<46>Nov 13 14:43:16 worker2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 51232 ssh2
+<46>Nov 13 14:43:20 dev2 sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50061 ssh2: RSA SHA256
+<46>Nov 13 14:48:25 worker2 sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 51010 ssh2
+<46>Nov 13 14:55:43 worker2 sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51093 ssh2: RSA SHA256
+<46>Nov 13 15:06:20 dev2 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 51387 ssh2
+<46>Nov 13 15:18:23 worker1 sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50946 ssh2: RSA SHA256
+<46>Nov 13 15:31:39 home sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51682 ssh2: RSA SHA256
+<46>Nov 13 15:47:31 dev2 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51385 ssh2: RSA SHA256
+<46>Nov 13 15:47:35 prod-www sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50734 ssh2: RSA SHA256
+<46>Nov 13 16:20:09 git sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 50813 ssh2: RSA SHA256
+<46>Nov 13 16:30:11 git sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50842 ssh2: RSA SHA256
+<46>Nov 13 16:30:35 dev2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50525 ssh2: RSA SHA256
+<46>Nov 13 16:31:40 worker1 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50048 ssh2
+<46>Nov 13 16:33:43 git sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50088 ssh2
+<46>Nov 13 17:05:33 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="slivingston" 
+<46>Nov 13 17:07:34 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="72.0.64.112" user="bobjo" 
+<46>Nov 13 17:11:03 worker2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 51304 ssh2: RSA SHA256
+<46>Nov 13 17:18:53 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="rsamson2" 
+<46>Nov 13 17:24:22 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="jgoodall" 
+<46>Nov 13 17:28:03 worker1 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 51283 ssh2: RSA SHA256
+<46>Nov 13 17:29:38 worker1 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50244 ssh2
+<46>Nov 13 17:31:04 worker2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 51488 ssh2: RSA SHA256
+<46>Nov 13 17:37:30 git sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 51405 ssh2
+<46>Nov 13 17:40:31 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="142.20.0.3" user="maryh" 
+<46>Nov 13 17:47:57 dev2 sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 50429 ssh2
+<46>Nov 13 17:53:03 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="24.72.128.32" user="joehanson" 
+<46>Nov 13 18:42:24 prod-www sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 134.209.78.69 port 41985 ssh2
+<46>Nov 14 07:14:45 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 41834 ssh2
+<46>Nov 14 07:14:57 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 48912 ssh2
+<46>Nov 14 07:15:09 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 40479 ssh2
+<46>Nov 14 07:15:21 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 40580 ssh2
+<46>Nov 14 07:15:33 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 41925 ssh2
+<46>Nov 14 07:15:45 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 44827 ssh2
+<46>Nov 14 07:15:57 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 51365 ssh2
+<46>Nov 14 07:16:09 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 43573 ssh2
+<46>Nov 14 07:16:21 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 42323 ssh2
+<46>Nov 14 07:16:33 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 42041 ssh2
+<46>Nov 14 07:16:45 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 46954 ssh2
+<46>Nov 14 07:16:57 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 51905 ssh2
+<46>Nov 14 07:17:09 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 42100 ssh2
+<46>Nov 14 07:17:21 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 48256 ssh2
+<46>Nov 14 07:17:33 prod-www sshd[1234]: Failed password for oracle from 113.132.4.115 port 47007 ssh2
+<46>Nov 14 07:17:57 prod-www sshd[1234]: Accepted keyboard-interactive/pam for oracle from 113.132.4.115 port 50364 ssh2
+<46>Nov 14 08:01:57 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="slivingston" 
+<46>Nov 14 08:03:02 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="rsamson2" 
+<46>Nov 14 08:07:37 prod-www sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50334 ssh2: RSA SHA256
+<46>Nov 14 08:21:21 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="142.20.0.3" user="maryh" 
+<46>Nov 14 08:23:47 prod-www sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51312 ssh2: RSA SHA256
+<46>Nov 14 08:26:46 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="jgoodall" 
+<46>Nov 14 08:37:29 git sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50305 ssh2
+<46>Nov 14 08:42:45 worker2 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51084 ssh2: RSA SHA256
+<46>Nov 14 08:44:16 home sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 51405 ssh2: RSA SHA256
+<46>Nov 14 08:50:50 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="24.72.128.32" user="joehanson" 
+<46>Nov 14 08:57:44 worker2 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 50435 ssh2: RSA SHA256
+<46>Nov 14 08:57:54 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN start" action="ssl-start" tunneltype="ssl" tunnelid=0 remip="72.0.64.112" user="bobjo" 
+<46>Nov 14 09:15:46 worker1 sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50972 ssh2: RSA SHA256
+<46>Nov 14 09:16:59 worker2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50246 ssh2: RSA SHA256
+<46>Nov 14 09:46:02 dev2 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 50840 ssh2
+<46>Nov 14 10:20:34 home sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 51582 ssh2
+<46>Nov 14 10:21:35 dev2 sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 51406 ssh2: RSA SHA256
+<46>Nov 14 10:25:26 home sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50702 ssh2: RSA SHA256
+<46>Nov 14 10:47:26 dev2 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50359 ssh2
+<46>Nov 14 10:50:20 git sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 50442 ssh2: RSA SHA256
+<46>Nov 14 10:51:52 git sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50472 ssh2
+<46>Nov 14 11:06:18 worker2 sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 50494 ssh2
+<46>Nov 14 11:14:56 dev2 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 51041 ssh2
+<46>Nov 14 11:35:35 worker2 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51173 ssh2: RSA SHA256
+<46>Nov 14 11:37:02 git sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 51660 ssh2
+<46>Nov 14 12:08:11 git sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 51754 ssh2: RSA SHA256
+<46>Nov 14 12:11:51 worker2 sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 51885 ssh2: RSA SHA256
+<46>Nov 14 12:14:49 prod-www sshd[1234]: Accepted keyboard-interactive/pam for rsamson2 from 138.119.4.22 port 51927 ssh2
+<46>Nov 14 12:24:38 worker2 sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 51608 ssh2: RSA SHA256
+<46>Nov 14 12:24:45 home sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50614 ssh2
+<46>Nov 14 12:48:04 prod-www sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50193 ssh2: RSA SHA256
+<46>Nov 14 12:53:44 worker2 sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50940 ssh2
+<46>Nov 14 13:33:11 prod-www sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51632 ssh2: RSA SHA256
+<46>Nov 14 13:50:00 worker2 sshd[2878]: Accepted publickey for bobjo from 72.0.64.112 port 50621 ssh2: RSA SHA256
+<46>Nov 14 13:56:40 worker2 sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 51118 ssh2
+<46>Nov 14 14:11:01 prod-www sshd[2878]: Accepted publickey for jgoodall from 138.119.4.22 port 50340 ssh2: RSA SHA256
+<46>Nov 14 14:11:12 dev2 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 51723 ssh2
+<46>Nov 14 14:24:44 home sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50207 ssh2: RSA SHA256
+<46>Nov 14 14:26:47 dev2 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 51871 ssh2
+<46>Nov 14 14:50:52 worker2 sshd[2878]: Accepted publickey for maryh from 142.20.0.3 port 50386 ssh2: RSA SHA256
+<46>Nov 14 15:44:55 worker1 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 50271 ssh2
+<46>Nov 14 15:58:00 home sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50969 ssh2: RSA SHA256
+<46>Nov 14 15:58:48 home sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51529 ssh2: RSA SHA256
+<46>Nov 14 16:01:39 prod-www sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 50860 ssh2
+<46>Nov 14 16:06:42 home sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 51032 ssh2: RSA SHA256
+<46>Nov 14 16:16:20 worker2 sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50600 ssh2: RSA SHA256
+<46>Nov 14 16:18:19 worker1 sshd[1234]: Accepted keyboard-interactive/pam for joehanson from 24.72.128.32 port 51491 ssh2
+<46>Nov 14 16:32:02 prod-www sshd[1234]: Accepted keyboard-interactive/pam for slivingston from 138.119.4.22 port 50142 ssh2
+<46>Nov 14 16:39:40 worker1 sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51438 ssh2: RSA SHA256
+<46>Nov 14 16:55:09 git sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 51323 ssh2: RSA SHA256
+<46>Nov 14 16:55:40 dev2 sshd[1234]: Accepted keyboard-interactive/pam for bobjo from 72.0.64.112 port 50030 ssh2
+<46>Nov 14 16:57:11 prod-www sshd[1234]: Accepted keyboard-interactive/pam for jgoodall from 138.119.4.22 port 50242 ssh2
+<46>Nov 14 17:07:24 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="rsamson2" 
+<46>Nov 14 17:08:12 git sshd[1234]: Accepted keyboard-interactive/pam for maryh from 142.20.0.3 port 50175 ssh2
+<46>Nov 14 17:22:53 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="142.20.0.3" user="maryh" 
+<46>Nov 14 17:23:42 worker2 sshd[2878]: Accepted publickey for rsamson2 from 138.119.4.22 port 50411 ssh2: RSA SHA256
+<46>Nov 14 17:28:37 home sshd[2878]: Accepted publickey for slivingston from 138.119.4.22 port 50839 ssh2: RSA SHA256
+<46>Nov 14 17:37:54 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="24.72.128.32" user="joehanson" 
+<46>Nov 14 17:43:05 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="72.0.64.112" user="bobjo" 
+<46>Nov 14 17:48:49 worker1 sshd[2878]: Accepted publickey for joehanson from 24.72.128.32 port 50318 ssh2: RSA SHA256
+<46>Nov 14 17:55:04 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="slivingston" 
+<46>Nov 14 17:59:26 devname="staff-vpn" devid="ABFG1234567890" type="event" subtype="vpn" level="information" vd="external" logdesc="SSL VPN exit" action="ssl-exit" tunneltype="ssl" tunnelid=0 remip="138.119.4.22" user="jgoodall"
